@@ -1,5 +1,4 @@
 # S52_WordleGUI_Hard
-[Home](Home)
 
 ### Problem Statement
 This project involves creating a Wordle-like game where players have 6 chances to guess a random 5-letter word, with color-coded feedback for each guess. The GUI will display remaining valid letters, previous guesses, and whether the player has won or lost.
@@ -44,9 +43,6 @@ The `Main` class serves as the entry point for the application. It initializes t
 ##### Key Methods:
 - **`main(String[] args)`**: Initializes the `Wordle` object, sets its default behavior, and starts the game UI.
 
----
-
-![Wordle UML](uploads/6032bf1d2a33ba683fd775c80972e828/Wordle.png)
 
 ---
 ### User Documentation
